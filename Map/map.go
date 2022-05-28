@@ -24,6 +24,5 @@ func main() {
 
 	for fruitID, fruitName := range fruitShop {
 		fmt.Printf("Fruit ID: %d. Fruit Name: %s\n", fruitID, fruitName)
-
 	}
 }
